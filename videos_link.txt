@@ -1,2 +1,2 @@
-Σε αυτόν τον drive σύνδεσμο περιέχονται τα βίντεο "first_video.mp4" και "second_video.mp4", όπου δοκιμάζω τη λειτουργία της κατασκευής:
+This drive link contains the videos "first_video.mp4" and "second_video.mp4", where I test the projects' functionalities:
 https://drive.google.com/drive/folders/1fekzdiSp4skTO1alJnSjG9AEYg3RPyo-?usp=sharing
